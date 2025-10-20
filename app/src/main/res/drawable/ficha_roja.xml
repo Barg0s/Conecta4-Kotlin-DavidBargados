@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="#FF0000"/> <!-- Color blanco para las fichas -->
-    <size android:width="80dp" android:height="80dp"/> <!-- Tamaño de la ficha -->
-    <corners android:radius="40dp"/> <!-- Redondear los bordes para que sea un círculo -->
+    <solid android:color="#FF0000"/>
+    <size android:width="80dp" android:height="80dp"/>
+    <corners android:radius="40dp"/>
 </shape>
